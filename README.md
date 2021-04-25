@@ -11,7 +11,7 @@ Clone the repo.
 
 *Go to mongodb.com and create a new cluster and get your mongodb_uri and paste it in the .env file in server.
 
-*Go to google developer console and create yourself a clientID and paste that id in line82 of Auth.js in Auth folder in client folder.
+*Go to google developer console and create yourself a clientID in the required URL while making the client ID add the http://localhost:3000 as domain and paste that id in line82 of Auth.js in Auth folder in client folder.
 
 *You are good to go.
 
