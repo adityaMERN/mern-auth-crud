@@ -26,3 +26,7 @@ When you first visit the page you'll be prompted to the login page.
 Create your account and then after you are authorized you can create any post .
 You can delete the post as well as edit it by clicking at  3 dots. 
 Other user will then be able to see your post once they make their account and will be able to like the post but can't delete other's post.
+
+
+ I then hosted the backend on heroku and the frontend on netlify.
+ Everything is working fine and this is the link to the full stack application:   https://post-auth-crud.netlify.app/
